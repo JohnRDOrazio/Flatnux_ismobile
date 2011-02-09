@@ -1,0 +1,5 @@
+This is a self-executing script for the Flatnux CMS. It tests the client browser to see if it is a mobile browser, and if so sets the Flatnux theme to "mobile".
+Questo è uno script automatico per il CMS Flatnux. Controlla se il browser del client è un browser mobile, se sì setta il tema Flatnux a "mobile".
+
+CHANGELOG:
+feb 2011 -> changed from regex type check to strpos type check according to Russell Beattie's suggestion http://www.russellbeattie.com/blog/mobile-browser-detection-in-php.
